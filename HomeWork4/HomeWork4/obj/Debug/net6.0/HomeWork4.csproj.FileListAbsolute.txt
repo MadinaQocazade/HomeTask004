@@ -1,0 +1,15 @@
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.csproj.AssemblyReference.cache
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.AssemblyInfoInputs.cache
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.AssemblyInfo.cs
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.csproj.CoreCompileInputs.cache
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/bin/Debug/net6.0/HomeWork4
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/bin/Debug/net6.0/HomeWork4.deps.json
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/bin/Debug/net6.0/HomeWork4.runtimeconfig.json
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/bin/Debug/net6.0/HomeWork4.dll
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/bin/Debug/net6.0/HomeWork4.pdb
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.dll
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/refint/HomeWork4.dll
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.pdb
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/HomeWork4.genruntimeconfig.cache
+/Users/madina/Desktop/HomeTask4/HomeWork4/HomeWork4/obj/Debug/net6.0/ref/HomeWork4.dll
